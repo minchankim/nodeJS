@@ -1,0 +1,7 @@
+>익스프레스 설치
+npm install express --save
+
+>익스프레스 실행
+node epresstest.js
+
+>npm install express-generator -g
