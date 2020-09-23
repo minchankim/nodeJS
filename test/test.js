@@ -2,5 +2,5 @@ var http = require('http');
 http.createServer(function handler(req, res) {
     res.writeHead(200, {'Content-Type': 'text/plain'});
     res.end('Hellosdfsfdsfd dddddtttttdWorld\n');
-}).listen(1337, '61.72.75.77');
-console.log('Server running at http://61.72.75.77:1337/');
+}).listen(1337, '10.177.30.123');
+console.log('Server running at http://10.177.30.123:80/');
