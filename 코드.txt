@@ -4,4 +4,14 @@ npm install express --save
 >익스프레스 실행
 node epresstest.js
 
+generator 인스톨
 >npm install express-generator -g
+
+myproject 로 이동
+>cd myproject
+
+npm 인스톨
+>npm install
+
+npm 스타트
+>npm start
