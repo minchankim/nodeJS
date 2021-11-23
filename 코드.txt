@@ -12,6 +12,9 @@ generator 인스톨
 
  install dependencies:
  > cd myproject && npm install
+ 
+express 명령어로 프로젝트를 생성해줍니다.
+>express -e myproject
 
  myproject 로 이동
 >cd myproject
