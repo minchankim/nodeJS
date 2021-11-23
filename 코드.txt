@@ -1,17 +1,36 @@
->익스프레스 설치
-npm install express --save
+>폴더 만들기
+mkdir newNodeJS
 
->익스프레스 실행
-node epresstest.js
+# npm 을 통한 초기화 하기
+$ npm init
+
+> 폴더에 익스프레스 설치
+npm install express --save
 
 generator 인스톨
 >npm install express-generator -g
 
-myproject 로 이동
+ install dependencies:
+ > cd myproject && npm install
+
+ myproject 로 이동
 >cd myproject
 
 npm 인스톨
 >npm install
 
+
+
+
 npm 스타트
 >npm start
+
+테스트페이지 출력
+http://localhost:3000/
+
+>익스프레스 실행
+node epresstest.js
+
+https://velopert.com/294
+https://pineoc.blogspot.com/2016/04/nodejs-expressjs-bootstrap.html
+https://araikuma.tistory.com/453
